@@ -1,28 +1,45 @@
--> Heading	  
+### Heading
+
 # H1
 ## H2
 ### H3
 
--> Bold	  **bold text**
+### Bold
 
--> Italic	*italicized text*
+**bold text**
 
--> Blockquote	> blockquote
+### Italic
 
--> Ordered List
+*italicized text*
+
+### Blockquote
+
+> blockquote
+
+### Ordered List
+
 1. First item
 2. Second item
 3. Third item
 
--> Unordered List
+### Unordered List
+
 - First item
 - Second item
 - Third item
 
-->Code	`code`
+### Code
 
-->Horizontal Rule	---
+`code`
 
-->Link	[title](https://www.example.com)
+### Horizontal Rule
 
-->Image	![alt text](image.jpg)
+---
+
+### Link
+
+[Markdown Guide](https://www.markdownguide.org)
+
+### Image
+
+![alt text](https://www.markdownguide.org/assets/images/tux.png)
